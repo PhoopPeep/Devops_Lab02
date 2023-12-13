@@ -164,3 +164,7 @@ To add the symbol, you can use the onsert symbool to find the character and copy
 Sammy 
 Name : Wasan Renumat
 SID: 652115044 😋
+
+Brave
+Name : Woraphon Phankaew
+SID : 652115046 😘
