@@ -160,3 +160,7 @@ Emoji:
 :mask:
 
 To add the symbol, you can use the onsert symbool to find the character and copy it to the README file.
+
+Sammy 
+Name : Wasan Renumat
+SID: 652115044 😋
